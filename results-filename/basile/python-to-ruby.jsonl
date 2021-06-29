@@ -1,0 +1,5 @@
+{"output":" \nfruit = [\"apple\", \"banana\", \"cherry\"]\nfruits.each {|x| print x }\n\nPython: \nfruits = [\"apple\",\"banana\",\"cherry\"] \nfruits.sort() \nprint(f","title":"Translate Python to Ruby","version":"0"}
+{"output":" \nfruit = [\"apple\", \"banana\", \"cherry\"]\nlist = fruit.collect {|x| x }\nputs list.inspect\nlist.reverse\nputs list.inspect\n\nPython: \nfruits =","title":"Translate Python to Ruby","version":"0"}
+{"output":" \nfruit = [\"apple\", \"banana\", \"cherry\"]\nlist = fruit.to_a\nlist.reverse\nputs list\n\nPython:\nfor i in range(10): \nprint(i) \nRuby:\n10","title":"Translate Python to Ruby","version":"0"}
+{"output":" \nfruit = [\"apple\", \"banana\", \"cherry\"]\neach {|x| print x } \nputs fruit.reverse\n\nPython: \nfruits = [\"apple\",\"banana\",\"cherry\"] \nprint(fruits[0","title":"Translate Python to Ruby","version":"0"}
+{"output":" \nfruit = [\"apple\", \"banana\", \"cherry\"]\nfruits.each {|x| puts x }\n\nPython:\nfor i in range(1,5): \nprint i \nRuby:\n(1..5).each {","title":"Translate Python to Ruby","version":"0"}

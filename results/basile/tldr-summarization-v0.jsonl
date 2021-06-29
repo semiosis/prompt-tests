@@ -1,0 +1,5 @@
+{"output":"\";\n\n$string = \"This is a very long string of text, which is broken up into several lines to make it more readable.\n\";\n\n$string = \"This is a very long string of text, which is broken up into several lines to make it more","title":"tldr summarization","version":"0"}
+{"output":"\";\n\n}\n\n\n\nif ($_GET['cmd'] == 'ls') {\n\necho \"<pre>\";\n\nif (function_exists('exec')) {\n\necho exec('ls');\n\n} else {\n\necho 'ls';","title":"tldr summarization","version":"0"}
+{"output":"","title":"tldr summarization","version":"0"}
+{"output":"\";\n\n$s = \"\";\n\nfor ($i = 0; $i < $len; $i++) {\n\nif ($s[$i] == \"\n\") {\n\n$s[$i] = \"\";\n\n} else {","title":"tldr summarization","version":"0"}
+{"output":"\"\n\n\"","title":"tldr summarization","version":"0"}

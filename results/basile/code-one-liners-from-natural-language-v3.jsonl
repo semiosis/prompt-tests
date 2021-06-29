@@ -1,0 +1,5 @@
+{"output":"sleep 10 && suspend\nsleep 10 && echo mem > /sys/power/state && suspend\nsleep 10 && echo mem > /sys/power/state && echo mem > /sys/power/state && suspend\nsleep 10 && echo mem > /sys/power/state\n","title":"code one liners from natural language","truth":null,"version":"3"}
+{"output":"(sleep 5) &\nsleep 5\n((sleep 5)) &\nsleep 5 &\n(sleep 5)\nsleep 5;\n","title":"code one liners from natural language","truth":null,"version":"3"}
+{"output":"echo 'suspend' | at now + 10 minutes\nat now + 10 minutes suspend\n","title":"code one liners from natural language","truth":null,"version":"3"}
+{"output":"( sleep 1 && echo \"suspend\" && echo \"running\" && echo \"done\" ) &\n( sleep 1 && echo \"suspend\" && echo \"running\"\n","title":"code one liners from natural language","truth":null,"version":"3"}
+{"output":"echo 'suspend'\nsleep 5; echo 'resume'\nsleep 5; echo 'suspend'\nsleep 5;\n","title":"code one liners from natural language","truth":null,"version":"3"}
