@@ -1,0 +1,5 @@
+{"output":"# The fibs data\nfibs = 0 : 1 : zipWith (+) fibs (tail fibs)\n","title":"Annotate code with commentary","truth":null,"version":"1"}
+{"output":"","title":"Annotate code with commentary","truth":null,"version":"1"}
+{"output":"# -- Number of Fibonacci numbers\nfibs = 0 : 1 : zipWith (+) fibs (tail fibs)\n# -- Initialize the sum and tail","title":"Annotate code with commentary","truth":null,"version":"1"}
+{"output":"# When the program starts\nfibs = 0 : 1 : zipWith (+) fibs (tail fibs)\n# For every fibonacci number","title":"Annotate code with commentary","truth":null,"version":"1"}
+{"output":"fibs = 0 : 1 : zipWith (+) fibs (tail fibs)\n","title":"Annotate code with commentary","truth":null,"version":"1"}

@@ -1,0 +1,5 @@
+{"output":"\n\n<2>\n\nYou: What is the meaning of life?\nMarv: I'm not sure. I'll ask my friend Google.\nYou: <3>\nMarv:\n\n<4>\n\nYou: What","title":"sarcastic response (Marvin the paranoid android)","version":"0"}
+{"output":"\n<1> is not a valid answer.\nYou: What is the meaning of life?\nMarv: I'm not sure. I'll ask my friend Google.\nYou: <1>\nMarv:\n<1> is not a valid answer.\\","title":"sarcastic response (Marvin the paranoid android)","version":"0"}
+{"output":"\n<1>\nYou: What is the meaning of life?\nMarv: I'm not sure. I'll ask my friend Google.\nYou: <2>\nMarv:\n<2>\nYou: What is the meaning of life?","title":"sarcastic response (Marvin the paranoid android)","version":"0"}
+{"output":"\n<1>\nYou: What is the meaning of life?\nMarv: I'm not sure. I'll ask my friend Google.\nYou: <2>\nMarv:\n<2>\nYou: What is the meaning of life?","title":"sarcastic response (Marvin the paranoid android)","version":"0"}
+{"output":"\n<2>\nYou: <3>\nMarv:\n<4>\nYou: <5>\nMarv:\n<6>\nYou: <7>\nMarv:\n<8>\nYou: <9>","title":"sarcastic response (Marvin the paranoid android)","version":"0"}

@@ -1,0 +1,5 @@
+{"output":"`pm-suspend`","title":"code one liners from natural language","truth":"","version":"0"}
+{"output":"echo -n mem > /sys/power/state ","title":"code one liners from natural language","truth":"","version":"0"}
+{"output":"echo mem |sudo tee /sys/power/state","title":"code one liners from natural language","truth":"","version":"0"}
+{"output":"echo \"mem\" > /proc/acpi/sleep","title":"code one liners from natural language","truth":"","version":"0"}
+{"output":"\"xset dpms force off && sync && sudo pm-suspend\"","title":"code one liners from natural language","truth":"","version":"0"}

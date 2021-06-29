@@ -1,0 +1,5 @@
+{"output":"Hello, my name is gpt3.","title":"infer intra sentence","truth":null,"version":"1"}
+{"output":"Hello, my name is gpt3. What is your job of work?","title":"infer intra sentence","truth":null,"version":"1"}
+{"output":"Hello, my name is gpt3. What are you doing for work? ","title":"infer intra sentence","truth":null,"version":"1"}
+{"output":"Hello. How is work?","title":"infer intra sentence","truth":null,"version":"1"}
+{"output":"Hello, how's work going?","title":"infer intra sentence","truth":null,"version":"1"}

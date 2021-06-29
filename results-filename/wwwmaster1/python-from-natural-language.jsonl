@@ -1,0 +1,5 @@
+{"output":"\nimport boysenberries\nboysenberries.go()","title":"Python from natural language","version":"0"}
+{"output":"\nprint(\"Boysenberries\")","title":"Python from natural language","version":"0"}
+{"output":"\nimport boysenberries\nboysenberries.print_fruit()","title":"Python from natural language","version":"0"}
+{"output":"\nprint(\"I like boysenberries\")","title":"Python from natural language","version":"0"}
+{"output":"\nboysenberries = \"boysenberries\"","title":"Python from natural language","version":"0"}

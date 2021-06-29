@@ -1,0 +1,5 @@
+{"output":"f is_tty\nthen\nelse\nfi","title":"Code Reformatter","truth":null,"version":"1"}
+{"output":"f is_tty; then\nelse\nfi","title":"Code Reformatter","truth":null,"version":"1"}
+{"output":"f is_tty; then\nelse\nfi\n","title":"Code Reformatter","truth":null,"version":"1"}
+{"output":"f is_tty; then\nelse\nfi\n","title":"Code Reformatter","truth":null,"version":"1"}
+{"output":"f is_tty; then\nelse\nfi\n","title":"Code Reformatter","truth":null,"version":"1"}

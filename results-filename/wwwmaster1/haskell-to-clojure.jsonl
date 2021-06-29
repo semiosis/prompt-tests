@@ -1,0 +1,5 @@
+{"output":" \n(min 1 2)\n\nHaskell: \nmax 1 2\nClojure: \n(max 1 2)\n\nHaskell:\nmap (+ 100) [1,2,3]\nClojure:\n(map inc [1 2","title":"Translate Haskell to Clojure","version":"0"}
+{"output":" \n(min 1 2)\n\nHaskell:\nmain = print \"Hello World\"\nClojure:\n(defn main [] (println \"Hello World\"))\n\nHaskell:\nmain = do putStrLn \"Hello World\"\nCl","title":"Translate Haskell to Clojure","version":"0"}
+{"output":" \n(min 1 2)\n\nHaskell: \nmap (* 100) [1..10]\nClojure: \n(map #(* % 100) (range 1 11))\n\nHaskell:\nmapM_ putStrLn [1","title":"Translate Haskell to Clojure","version":"0"}
+{"output":" \n(min 1 2)\n\nHaskell:\nmax 1 2\nClojure:\n(max 1 2)\n\nHaskell:\nmin 1 (2 3)\nClojure:\n(min 1 2 3)\n\nHaskell:\nmax","title":"Translate Haskell to Clojure","version":"0"}
+{"output":" \n(min 1 2)\n\nHaskell:\nmax 3 4\nClojure:\n(max 3 4)\n\nHaskell:\nmap (\\x -> x * x) [1..10]\nClojure:\n(map #(* %","title":"Translate Haskell to Clojure","version":"0"}
